@@ -1,0 +1,7 @@
+[default]
+name = basic
+backend = voila
+backend_args = --template=flex
+notebook_path = basic.ipynb
+setup_path =
+add_path =
